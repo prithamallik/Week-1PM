@@ -1,6 +1,0 @@
-echo "What is your username?"
-read Pritha
-mkdir $Pritha
-cd Pritha
-touch "$(Pritha).cpp"
-
